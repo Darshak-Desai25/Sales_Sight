@@ -8,7 +8,7 @@ Technologies Used
 
 Repository Structure
   
-Sales_Sight/
+# Sales_Sight/
 │
 ├── Data/                      # Raw and processed datasets
 │   ├── raw_data.csv
