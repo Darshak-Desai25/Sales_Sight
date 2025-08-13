@@ -6,26 +6,6 @@ Technologies Used
 - Pandas: Data cleaning, analysis, and manipulation in Python
 - Power BI: Interactive dashboards and visual reporting
 
-Repository Structure
-  
-# Sales_Sight/
-│
-├── Data/                      # Raw and processed datasets
-│   ├── raw_data.csv
-│   └── cleaned_data.csv
-│
-├── SQL_Queries/               # Scripts showcasing data extraction and transformation
-│   ├── query1.sql
-│   └── query2.sql
-│
-├── Notebooks/                 # Jupyter notebooks for exploratory analysis
-│   ├── sales_analysis.ipynb
-│   └── insights_generation.ipynb
-│
-└── Reports/                   # Visual deliverables
-    ├── sales_report.pbix
-    └── visualizations.pdf
-
 Key Highlights
 - Data Preparation: Includes imputation, outlier handling, and normalization for reliable analysis.
 - Advanced SQL Techniques: Leveraged window functions and conditional logic for revenue breakdowns, cohort analysis, and performance scoring.
